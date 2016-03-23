@@ -775,8 +775,8 @@ class PostValidator extends LaravelValidator {
 To define specific rules, proceed as shown below:
 
 ```php
-use \Prettus\Validator\Contracts\ValidatorInterface;
-use \Prettus\Validator\LaravelValidator;
+use Prettus\Validator\Contracts\ValidatorInterface;
+use Prettus\Validator\LaravelValidator;
 
 class PostValidator extends LaravelValidator {
 
